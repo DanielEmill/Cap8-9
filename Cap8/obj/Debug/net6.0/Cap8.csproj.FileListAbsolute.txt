@@ -1,0 +1,15 @@
+C:\Users\DECG\Desktop\Cap8-9\cap8\bin\Debug\net6.0\Cap8.exe
+C:\Users\DECG\Desktop\Cap8-9\cap8\bin\Debug\net6.0\Cap8.deps.json
+C:\Users\DECG\Desktop\Cap8-9\cap8\bin\Debug\net6.0\Cap8.runtimeconfig.json
+C:\Users\DECG\Desktop\Cap8-9\cap8\bin\Debug\net6.0\Cap8.dll
+C:\Users\DECG\Desktop\Cap8-9\cap8\bin\Debug\net6.0\Cap8.pdb
+C:\Users\DECG\Desktop\Cap8-9\cap8\obj\Debug\net6.0\Cap8.csproj.AssemblyReference.cache
+C:\Users\DECG\Desktop\Cap8-9\cap8\obj\Debug\net6.0\Cap8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECG\Desktop\Cap8-9\cap8\obj\Debug\net6.0\Cap8.AssemblyInfoInputs.cache
+C:\Users\DECG\Desktop\Cap8-9\cap8\obj\Debug\net6.0\Cap8.AssemblyInfo.cs
+C:\Users\DECG\Desktop\Cap8-9\cap8\obj\Debug\net6.0\Cap8.csproj.CoreCompileInputs.cache
+C:\Users\DECG\Desktop\Cap8-9\cap8\obj\Debug\net6.0\Cap8.dll
+C:\Users\DECG\Desktop\Cap8-9\cap8\obj\Debug\net6.0\refint\Cap8.dll
+C:\Users\DECG\Desktop\Cap8-9\cap8\obj\Debug\net6.0\Cap8.pdb
+C:\Users\DECG\Desktop\Cap8-9\cap8\obj\Debug\net6.0\Cap8.genruntimeconfig.cache
+C:\Users\DECG\Desktop\Cap8-9\cap8\obj\Debug\net6.0\ref\Cap8.dll
